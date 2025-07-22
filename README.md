@@ -1,6 +1,6 @@
 Aim: To study and implement Operators in C++.
 
-Apparatus: VS Code or Programiz online compiler
+Tool: VS Code 
 
 Theory: 
 Program-1: This program accepts an integer from the user and checks whether it is positive, negative, or zero using conditional statements.
