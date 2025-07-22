@@ -42,8 +42,19 @@ int main()
         cout << "Enter Marks Out of 100";
     }
     else 
+        
     {
         cout << "FAIL";
     }
     return 0;
 }
+
+/*
+output:
+Enter Marks of MTT: 70
+Enter Marks of NT: 85
+Enter Marks of DCLD: 87
+Enter Marks of SS: 90
+Enter Marks of EDC: 74
+Your Marks Average are: 81 Grade is A+
+*/    
