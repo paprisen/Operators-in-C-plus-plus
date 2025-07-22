@@ -12,6 +12,7 @@ Relational Operators:
 Relational operators are used in programming to compare two objects or expressions to know their position. Relational operators will return one of two boolean values (true or false) based on the relationship of the two evaluated values. These are <,>,==,!=,=>,=<.Relational operators are one of the more important operators because they assist in program flow, via aspects of condition-based statements such as if, while or for statements. Relational operators can be used to ascertain equality, relationship such as ordering,when checking for specific criteria.
 
 Program 1: Check if a Number is Positive, Negative, or Zero
+
 In this program the application of relational operators (>, <, ==) along with conditional statements (if, else if, else)
 To determine whether an input integer is:
 
@@ -29,6 +30,7 @@ Else, print "Zero"
 End
 
 Program 2: Calculate Average Marks and Display Grade
+
 In this program, the user will input marks for subjects - MTT, NT, DCLD, SS, EDC. Then the program will calculate the average marks with an arithmetic operator and find the resulting grade given average marks.
 
 Grade Conditions:
@@ -54,6 +56,7 @@ Else if average ≥ 51 → print "C Grade"
 Else → print "Fail"
 
 Program 3: Determine Coordinate Quadrant
+
 In this program, the user will enter X and Y coordinates and the program will determine in which quadrant the point lies on the Cartesian plane. The program will also ascertain whether the user enters a point that is on the X-axis, Y-axis or the origin (0,0).
 
 The program will evaluate the following conditions:
