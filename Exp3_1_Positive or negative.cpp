@@ -22,3 +22,12 @@ int main()
     }
     return 0;
 }
+
+/*
+output:
+Enter Number: 2
+Entered Number is Positive
+
+Enter a number:-5
+Entered Number is Negative
+*/
